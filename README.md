@@ -27,7 +27,7 @@
 
 ## 📈 GitLab Stats
 
-![GitLab Contributions](https://gitlab-stats-clock.vercel.app/api?username=afernandezLuc)
+![GitLab Contributions](https://gitlab-stats-clock.vercel.app/api?username=afernandezLucerna)
 
 
 ---
