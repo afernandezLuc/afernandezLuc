@@ -25,11 +25,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afernandezLuc&layout=compact&theme=default&hide=html)
 
 
-## 📈 GitLab Stats
-
-![GitLab Contributions](https://gitlab-stats-clock.vercel.app/api?username=afernandezLucerna)
-
-
 ---
 
 ## 📬 Get in Touch
